@@ -1,0 +1,60 @@
+
+PNR: 115248
+Passenger Name: Arun
+Train Name: Express
+Seat Number: 1
+Coach Type: AC
+Journey Date: 23-05-2026
+Fare: 1000
+Status: CONFIRMED
+------------------------
+
+PNR: 619307
+Passenger Name: Deekshith
+Train Name: Superfast
+Seat Number: 2
+Coach Type: Sleeper
+Journey Date: 22-05-2026
+Fare: 300
+Status: CONFIRMED
+------------------------
+
+PNR: 721274
+Passenger Name: Arun
+Train Name: Express
+Seat Number: 1
+Coach Type: Sleeper
+Journey Date: 23-05-2026
+Fare: 300
+Status: CONFIRMED
+------------------------
+
+PNR: 218225
+Passenger Name: Deekshith
+Train Name: Superfast
+Seat Number: 2
+Coach Type: AC
+Journey Date: 22-05-2026
+Fare: 1000
+Status: CONFIRMED
+------------------------
+
+PNR: 430231
+Passenger Name: Deekshith reddy
+Train Name: Superfast
+Seat Number: 3
+Coach Type: AC
+Journey Date: 21-05-2026
+Fare: 1000
+Status: CONFIRMED
+------------------------
+
+PNR: 149352
+Passenger Name: sai
+Train Name: Intercity
+Seat Number: 4
+Coach Type: Sleeper
+Journey Date: 10-03-2026
+Fare: 300
+Status: CONFIRMED
+------------------------
